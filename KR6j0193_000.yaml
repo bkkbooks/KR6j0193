@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0193/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大樂金剛不空真實三昧耶經般若波羅蜜多理趣釋
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1003.xml
+    old_id: T19n1003
+hash: sha256:e0be428885b16a3ca33348bcbd9f4022db1b74ef10745bfe9d43b57bc527115c

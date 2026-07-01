@@ -1,0 +1,67 @@
+canonical_identifier: bkk:krp/KR6j0193/v1
+canonical_location: https://kanripo.org/bkk/KR6j0193/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大樂金剛不空真實三昧耶經般若波羅蜜多理趣釋
+  identifiers:
+    alt_id:
+    - T19n1003
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1003.xml
+    old_id: T19n1003
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 甲
+  label: 甲
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0193_000.yaml, hash: 'sha256:e0be428885b16a3ca33348bcbd9f4022db1b74ef10745bfe9d43b57bc527115c'}
+  - {seq: 1, filename: KR6j0193_001.yaml, hash: 'sha256:158f9d6468f8b96df1b7564efa2058ea1565a6f5ab140fe714d3c8c8c4a06deb'}
+  - {seq: 2, filename: KR6j0193_002.yaml, hash: 'sha256:b836dac17c7c49a92f5c8b6890ceaa976bb5a10a51c05c9a8abc6c64a6e212a8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0193_001.markers.yaml, hash: 'sha256:bb9341b8125ce76e173633ea1551dd712cdf3c24ec79839957fa9f9a530a229f'}
+  - {seq: 2, role: markers, filename: assets/KR6j0193_002.markers.yaml, hash: 'sha256:00862140ced55e48a649c45ed0702a425274b619cce0744c383499c6e708c7e1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0193_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5733
+  label: '大樂金剛不空真實三昧耶經般
+
+    若波羅蜜多理趣釋卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0193_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8724
+  label: '大樂金剛不空真實三昧經般若
+
+    波羅蜜多理趣釋卷下'
+  type: juan
+  level: 1
+hash: sha256:5c92013d6a2f68457c226eae1940140e7964a0f68eea344a07db1f19157cfe20
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
